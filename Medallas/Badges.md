@@ -1,4 +1,4 @@
-# CÓMO CONSEGUIR MEDALLAS
+# CÓMO CONSEGUIR MEDALLAS Y OTRO TIPO DE EMBLEMAS
 
 [Requisitos para cada medalla de Github](https://github.com/drknzz/GitHub-Achievements)
 
